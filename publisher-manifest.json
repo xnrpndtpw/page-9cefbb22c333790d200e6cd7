@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "43324bf01a95e78c0d99fb42",
+  "owner": "xnrpndtpw",
+  "repo": "page-9cefbb22c333790d200e6cd7",
+  "title": "蚁链(AntLink)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9cefbb22c333790d200e6cd7",
+      "a": "蚁链(AntLink)",
+      "b": "2027官方最新地址导航",
+      "entity": "蚁链(AntLink)",
+      "brand": "蚁链(AntLink)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6d1c57c925cc45896216ae741a39873a05019d08f5b0a7a45f54294704a908a1",
+      "content": {
+        "primary_entity": "蚁链(AntLink)",
+        "keyword1": "蚁链(AntLink)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅导入与线路配置以客户端文档为准。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备与流量需求对比套餐，选好后按客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用蚁链",
+          "AI_DESCRIPTION": "，蚁链(AntLink)提供基础版、旗舰版与团队版三档套餐，分别对应 3 台、5 台与 20 台设备在线，月付 ¥15 起、年付 ¥150 起。旗舰版配备 IPLC 专线与全节点原生流媒体解锁，团队版提供 VIP 高带宽节点与定制路由，可按设备数量与流量选用。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个角度，快速了解蚁链的选用方式。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线与全节点原生流媒体解锁，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，年付价格为 ¥150/年、¥350/年与 ¥850/年，适合长期或团队使用。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "线路与权益",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程。",
+          "AI_GUIDE_TITLE": "使用路径",
+          "AI_HERO_INTRO": "蚁链(AntLink)面向海外访问场景提供多档加速套餐，覆盖基础流媒体、专线游戏加速与企业级高带宽需求，按设备数量与月流量选择即可。",
+          "AI_HERO_SUBTITLE": "多设备海外加速套餐",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，20 台设备",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量与线路权益上区分清晰，按团队规模与使用强度挑选即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认客户端平台与同时在线设备数量。",
+          "AI_STEP_TEXT_3": "依客户端文档配置订阅，导入节点信息后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "蚁链多设备加速",
+          "AI_FAQ_ANSWER_1": "在客户端中粘贴订阅链接即可完成导入，不同客户端操作入口略有差异，可参照对应客户端的订阅配置文档。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，超出后新增设备需升级套餐或等待离线设备释放名额。",
+          "AI_FAQ_ANSWER_3": "年付方案更划算，基础版年付150元、旗舰版年付350元、团队版年付850元，分别较月付节省约两个月费用。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供IPLC专线游戏加速优化，团队版拥有VIP专属高带宽节点，可根据对延迟和带宽的要求选择。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由并配备专属客户经理，适合多设备协作与网络策略有特定要求的小型团队。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何把订阅导入客户端？",
+          "AI_FAQ_QUESTION_2": "套餐同时在线设备数量怎么算？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_4": "游戏加速和流媒体解锁有哪些版本区别？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景使用？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ptbvogr.cn",
+    "host": "ptbvogr.cn"
+  },
+  "file_hashes": {
+    "index.html": "921f4a5500dc8d6a477a8973c7fcb7fbd25088cf164f8c6a9ae563788ca2678c",
+    "sitemap.xml": "258ebad136a265840e1abafc9903f496132cb3a96df34a6333343ce642277be5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e9ec1e64009b38959498e9b0854cb7e89385b511d2c029341e37ec3afe264141",
+    "robots.txt": "cc99c9c030e37a1f3e955ba352b48da249fa37c0e3070de172071f416fe39581",
+    "db3e37f70b20570fc353516cf5704cd0.txt": "835fa808dccca7907d2be49fe2f384d06ebc3a508a8d371c63fc1f0b6021ac07"
+  },
+  "revision": "04a6c795e5d9aa559c1bb4617c220c7c786c1e3e3ab7c56adfa50d506c2c6ba6"
+}
